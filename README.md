@@ -1,2 +1,2 @@
 # CycleScrollView
-a cyle scroll view for ios 
+a auto cyle scroll view for ios 
